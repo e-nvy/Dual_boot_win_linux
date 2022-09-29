@@ -1,5 +1,7 @@
 # Dual boot Windows with linux
 
+###### Considering you already know how to enter boot menu and install ubuntu.
+
 ## Prerequisite
 #### - Secure boot disabled from BIOS
 #### - Linux bootable pendrive
